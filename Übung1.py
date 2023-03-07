@@ -6,7 +6,7 @@ Created on Thu Oct  6 10:04:19 2022
 """
 
 i = [1,2,3,4]
-j = [2,7]
+j = [2,7,4,8]
 
 def zusammenfügen (i, j):
     h = i + j
