@@ -1,4 +1,4 @@
-schluessel = int(input("Geben Sie eine Zahl ein, die als Schlüssel dient (1 - 18): "))
+schluessel = int(input("Geben Sie eine Zahl ein, die als Schlüssel gebraucht wird (1 - 18): "))
 eingabe = input("Geben Sie ein Wort/einen Satz ein, der verschlüsselt werden soll: ")
 
 def verschluesselung(schluessel, eingabe):
